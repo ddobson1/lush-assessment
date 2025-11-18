@@ -1,36 +1,25 @@
-import { useState, useRef } from 'react';
-import { Animated } from 'react-native';
+import { useState } from 'react';
+import { NativeStackNavigationProp } from '@react-navigation/native-stack';
+import { RootStackParamList } from '../types';
 
-const INITIAL_HEIGHT = 200;
-const FADE_IN_DELAY = 100;
-const FADE_IN_DURATION = 300;
+type NavigationProp = NativeStackNavigationProp<RootStackParamList>;
 
-export const useWebViewHeight = () => {
-  const [height, setHeight] = useState(INITIAL_HEIGHT);
+export const useWebViewHeight = (navigation: NavigationProp) => {
+  const [height, setHeight] = useState(200);
   const [isLoading, setIsLoading] = useState(true);
-  const opacity = useRef(new Animated.Value(0)).current;
 
-  const handleHeightMessage = (event: any) => {
-    const contentHeight = parseInt(event.nativeEvent.data, 10);
-    if (contentHeight && contentHeight > 0) {
-      setHeight(contentHeight);
-
-      setTimeout(() => {
-        setIsLoading(false);
-        Animated.timing(opacity, {
-          toValue: 1,
-          duration: FADE_IN_DURATION,
-          useNativeDriver: true,
-        }).start();
-      }, FADE_IN_DELAY);
+  const handleMessage = (event: any) => {
+    const data = JSON.parse(event.nativeEvent.data);
+    if (data.type === 'link' && data.url) {
+      navigation.navigate('WebView', { url: data.url });
+      return;
+    }
+    if (data.type === 'height' && data.value) {
+      setHeight(parseInt(data.value, 10));
+      setIsLoading(false);
     }
   };
 
-  return {
-    height,
-    isLoading,
-    opacity,
-    handleHeightMessage,
-  };
+  return { height, isLoading, handleMessage };
 };
 

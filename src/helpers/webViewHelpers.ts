@@ -19,13 +19,15 @@ export const generateHtmlContent = (content: string): string => {
 
 export const getHeightMeasurementScript = (): string => {
   return `
-    window.ReactNativeWebView.postMessage(
-      Math.max(
-        document.body.scrollHeight,
-        document.body.offsetHeight,
-        document.documentElement.scrollHeight
-      )
-    );
+    window.ReactNativeWebView.postMessage(JSON.stringify({ type: 'height', value: document.body.scrollHeight }));
+    
+    document.addEventListener('click', (e) => {
+      const link = e.target.closest('a');
+      if (link?.href) {
+        e.preventDefault();
+        window.ReactNativeWebView.postMessage(JSON.stringify({ type: 'link', url: link.href }));
+      }
+    });
     true;
   `;
 };

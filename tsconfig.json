@@ -3,10 +3,10 @@
   "compilerOptions": {
     "strict": true,
     "jsx": "react-native",
+    "moduleResolution": "bundler",
     "esModuleInterop": true,
     "resolveJsonModule": true,
-    "skipLibCheck": true,
-    "moduleResolution": "node"
+    "skipLibCheck": true
   },
   "include": [
     "**/*.ts",

@@ -14,7 +14,7 @@ A React Native app built with Expo that displays products from mock data with na
 
 ## Tech Stack
 
-- React Native (Expo)
+- React Native (Expo SDK 54)
 - TypeScript
 - React Navigation (Native Stack Navigator)
 - React Native WebView
@@ -55,13 +55,13 @@ npm run android  # Android emulator
 
 - **Type Safety**: Full TypeScript implementation with proper type definitions
 - **Component Structure**: Clean separation of concerns with reusable components. Components are co-located within their respective screen folders for better organization
-- **Custom Hooks**: 
+- **Custom Hooks**:
   - `useProducts`: Manages product data fetching and category filtering
   - `useFavorites`: Manages favorite product state using a Set for efficient lookups
-  - `useWebViewHeight`: Handles dynamic WebView height calculation and loading states
-- **Helper Functions**: 
+  - `useWebViewHeight`: Handles WebView height measurement and link navigation
+- **Helper Functions**:
   - `formatPrice`: Formats product prices with proper currency symbols and decimal places
-  - `webViewHelpers`: Generates HTML content and height measurement scripts for WebView
+  - `webViewHelpers`: Generates HTML content and JavaScript for WebView link handling
 - **State Management**: Uses React hooks (useState, useMemo) for local state. Favorites are stored in component state (not persisted)
 - **Navigation**: Uses product ID for navigation params to avoid serialization issues
 - **Responsive Design**: Products are displayed in a responsive grid
