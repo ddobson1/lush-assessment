@@ -74,6 +74,8 @@ npm run android  # Android emulator
 - The app uses local state only (no global state management library)
 - HTML content in descriptions is rendered using WebView with proper formatting. Alternatively, a native HTML decoder could be implemented to remove the loading time of spinning up the WebView, but for simplicity the WebView approach was chosen
 
+## Testing
+Tested on actual android device, for iOS testing has happend on simulator only
 
 ## Screen Reccording
 
