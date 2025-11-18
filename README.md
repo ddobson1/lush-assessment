@@ -75,3 +75,10 @@ npm run android  # Android emulator
 - HTML content in descriptions is rendered using WebView with proper formatting. Alternatively, a native HTML decoder could be implemented to remove the loading time of spinning up the WebView, but for simplicity the WebView approach was chosen
 
 
+## Screen Reccording
+
+https://github.com/user-attachments/assets/7a7dccbd-38d5-40b3-8609-ea9cc4a54fef
+
+
+
+
