@@ -1,0 +1,1633 @@
+{
+  "data": [
+    {
+      "category": ["Hair"],
+      "description": "<b>How to use:<br></b>After shampooing, squeeze out excess water before sweeping a desired amount through the mid-lengths and ends of your hair.&nbsp;",
+      "minPrice": "8",
+      "maxPrice": "43",
+      "currency": "GBP",
+      "slug": "american-cream-conditioner",
+      "id": "UHJvZHVjdDozODgy",
+      "objectID": "UHJvZHVjdDozODgy",
+      "name": "American Cream",
+      "isAvailableForPurchase": true,
+      "isAvailable": true,
+      "thumbnail": {
+        "url": "https://unicorn-staging.eu.saleor.cloud/media/thumbnails/products/american_cream_hair_conditioner_lanolin_free_2023_ff632442_thumbnail_256.png",
+        "alt": "",
+        "__typename": "SaleorImage"
+      },
+      "productType": {
+        "slug": "standard-product",
+        "hasVariants": true,
+        "__typename": "SaleorProductType"
+      },
+      "collections": [
+        {
+          "name": "Conditioners",
+          "slug": "conditioners",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bestsellers",
+          "slug": "bestsellers",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Hair Care",
+          "slug": "hair-care",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Gifts",
+          "slug": "gifts",
+          "__typename": "SaleorSimpleCollection"
+        }
+      ],
+      "__typename": "AlgoliaResult"
+    },
+    {
+      "category": ["Face"],
+      "description": "<b>What’s in it for you?<br></b>Instant radiance - achieved the good old-fashioned way. If you’re using a chemical exfoliant, try this cult Lush scrub instead for naturally gorgeous skin. Ideal for complexions that feel shiny or dull, a blend of fine and hand-harvested sea salt provides medium to strong buffing action to stimulate skin cell turnover, and deeply cleanse away dirt and pollution. As you scrub, deeply softening avocado butter, coconut oil and glycerine leave your skin rejuvenated, glowy and smooth as silk. Boosting skin cell turnover and esteems since 2002, this skin-cleanser works wonders for the body and mind. <b>What’s in it for the world?<br></b>Ocean Salt face scrub cleans up ecosystems as well as complexions! The sea salt inside is responsibly sourced from Portuguese and Bulgarian salt pans that provide essential shelter for migrating birds and promote biodiversity. We are also gradually introducing labels composed of ocean-bound plastic salvaged from Malaysian shores - an innovation that’s helping to clear waste before it reaches the ocean.&nbsp;<br> <b>How to use:<br></b>Using a physical exfoliator allows you to tailor the intensity of your scrub so that it suits your skin perfectly and you don’t go too far. Wet your skin then apply generously using a circular motion, rinse away and follow up with a good moisturiser.",
+      "minPrice": "14.5",
+      "maxPrice": "14.5",
+      "currency": "GBP",
+      "slug": "ocean-salt-face-and-body-scrub",
+      "id": "UHJvZHVjdDozODg1",
+      "objectID": "UHJvZHVjdDozODg1",
+      "name": "Ocean Salty",
+      "isAvailableForPurchase": true,
+      "isAvailable": true,
+      "thumbnail": {
+        "url": "https://unicorn-staging.eu.saleor.cloud/media/thumbnails/products/ocean_salt_face_ans_body_scrub_lanolin_free_2023_0046d8a1_thumbnail_256.png",
+        "alt": "",
+        "__typename": "SaleorImage"
+      },
+      "productType": {
+        "slug": "standard-product",
+        "hasVariants": true,
+        "__typename": "SaleorProductType"
+      },
+      "collections": [
+        {
+          "name": "Skincare",
+          "slug": "skincare",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Face Scrubs & Exfoliators",
+          "slug": "face-scrubs-exfoliators",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Cleansers",
+          "slug": "cleansers",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bestsellers",
+          "slug": "bestsellers",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Skincare Routines",
+          "slug": "skincare-routines",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan",
+          "slug": "vegan-cosmetics",
+          "__typename": "SaleorSimpleCollection"
+        }
+      ],
+      "__typename": "AlgoliaResult"
+    },
+    {
+      "category": ["Bath"],
+      "description": "Welcome to Hellfire! Your quest has led you here, but now you face a crossroads… Will you roll the D8 and trust in luck, or will you step into The Rift and face the Upside Down? We’ve collaborated with Netflix to bring you two bath bombs. This adventure-filled, limited-edition duo set will submerge you in the world of Stranger Things.<br><br>*Also included are two collectable playing cards compatible with the Dungeons and Dragons game played in the show.<br> <b><i>Orders are not available for Click &amp; Collect.<br>This product is not available for shipping to Brazil, all other usual delivery restrictions apply, <a href=\"https://www.lush.com/uk/en/faq/delivery-information\">more information can be found here.</a><br></i></b> <b>How to use:<br></b>When things feel strange, there is no shame in running a bath. Roll your D8 into warm waters to unleash two colourful paths to choose from, as waves of peppermint unfurl to sharpen your mind before you face your foes OR will you be enticed by the spicy scent and flame coloured waters of The Rift, as it crackles, swirls and pops around you...? Stranger Things™ / © Netflix. Used with permission. <b>Ingredients<br></b><b>D8 bath bomb<br></b><i>Sodium Bicarbonate, <s>Citric Acid</s>, Alcohol Denat., <s>Titanium Dioxide, Peppermint Oil (Mentha piperita), Grapefruit Oil (Citrus paradisi), Vetivert Oil (Vetiveria zizanoides), Cedarwood Oil (Juniperus virginiana), Cornstarch (Zea mays), Water (Aqua), Corn Protein (Zein)</s>, Synthetic Fluorphlogopite, Dipropylene Glycol, Sodium Cocoyl Isethionate, Tin Oxide, <s>*Limonene, *Linalool</s>, Perfume, Colour 47005:1, Colour 42090, Colour 42090:2, Colour 77499, Colour 45410:2, Colour 45410:1, Colour 17200, Colour 14700, Colour 42053, Colour 15985:1, Colour 19140, Colour 45410, Colour 73360<br></i><i><s>* Occurs naturally in essential oils</s></i> <b>The Rift bath bomb</b><br><i>Sodium Bicarbonate, <s>Citric Acid</s>, Alcohol Denat., <s>Cornstarch (Zea mays), Cinnamon Leaf Oil (Cinnamomum zeylanicum), Brazilian Orange Oil (Citrus sinensis), Almond Essential Oil (Prunus amygdalus amara), Clove Bud Oil (Eugenia caryophyllus), Water (Aqua), Corn Protein (Zein), Popping Candy, Cream of Tartar (Potassium bitartrate), Titanium Dioxide</s>, Dipropylene Glycol, PEG-7 Glyceryl Cocoate, Sodium Coco Sulfate, Synthetic Fluorphlogopite, Propylene Glycol, Sodium Cocoyl Isethionate, Cocamidopropyl Betaine, Tin Oxide, <s>*Cinnamal, *Eugenol, *Limonene</s>, Perfume, Colour 47005:1, Colour 77499, Colour 14700, Colour 15985:1, Colour 19140:1, Colour 45410:1, Colour 45410:2, Colour 42090, Colour 17200, Colour 42053, Colour 19140, Colour 45410, Colour 42090:2<br><s>* Occurs naturally in essential oils</s></i> For more information on any of these ingredients, <a href=\"https://www.lush.com/uk/en/i\">please follow this link to the ingredients hub</a>.",
+      "minPrice": "15",
+      "maxPrice": "15",
+      "currency": "GBP",
+      "slug": "hfc-bathing-duo",
+      "id": "UHJvZHVjdDozMjE4",
+      "objectID": "UHJvZHVjdDozMjE4",
+      "name": "HFC",
+      "isAvailableForPurchase": true,
+      "isAvailable": true,
+      "thumbnail": {
+        "url": "https://unicorn-staging.eu.saleor.cloud/media/thumbnails/products/9006_bath_bomb_duo_500_635d7c3e_thumbnail_256.webp",
+        "alt": "D8, The Rift bath bombs. D8 is white, black/red text printed, in shape of 8 sided die. The Rift, black with yellow/red centre.",
+        "__typename": "SaleorImage"
+      },
+      "productType": {
+        "slug": "standard-product",
+        "hasVariants": true,
+        "__typename": "SaleorProductType"
+      },
+      "collections": [
+        {
+          "name": "Bath & Body Gifts",
+          "slug": "bath-body-gifts",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bath Products",
+          "slug": "bath-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bath Bomb Gift Sets",
+          "slug": "bath-bomb-gift-sets",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bestsellers",
+          "slug": "bestsellers",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bath Bombs",
+          "slug": "bath-bombs",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "HFC",
+          "slug": "9006",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Christmas",
+          "slug": "christmas",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Christmas Gifts",
+          "slug": "christmas-gifts",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Secret Santa Gifts",
+          "slug": "secret-santa-gifts",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Corporate Gifts",
+          "slug": "corporate-gifts",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Gifts",
+          "slug": "gifts",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Collaborations",
+          "slug": "collaborations",
+          "__typename": "SaleorSimpleCollection"
+        }
+      ],
+      "__typename": "AlgoliaResult"
+    },
+    {
+      "category": ["Bath > Shower", "Bath"],
+      "description": "The Turkish rose absolute and conditioning argan oils in this rose shower gel dance their dizzyingly floral fragrance over skin, leaving a gentle, lingering perfume behind. <b>How to use:<br></b>Squirt it all over and lather up before rinsing to leave your skin smelling rosy and feeling happy.",
+      "minPrice": "8",
+      "maxPrice": "43",
+      "currency": "GBP",
+      "slug": "rose-jam-shower-gel",
+      "id": "UHJvZHVjdDoyOTI=",
+      "objectID": "UHJvZHVjdDoyOTI=",
+      "name": "Rose Jam",
+      "isAvailableForPurchase": true,
+      "isAvailable": true,
+      "thumbnail": {
+        "url": "https://unicorn-staging.eu.saleor.cloud/media/thumbnails/products/rose_jam_shower_gel_2020_thumbnail_256.png",
+        "alt": "A sample of rosy pink Rose Jam shower gel.",
+        "__typename": "SaleorImage"
+      },
+      "productType": {
+        "slug": "standard-product",
+        "hasVariants": true,
+        "__typename": "SaleorProductType"
+      },
+      "collections": [
+        {
+          "name": "Shower Products",
+          "slug": "shower-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Shower Gels",
+          "slug": "shower-gels",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan",
+          "slug": "vegan-cosmetics",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan Shower Products",
+          "slug": "vegan-shower-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Winter Bath & Shower Products",
+          "slug": "winter-bath-shower-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Summer Essentials",
+          "slug": "summer-essentials",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bestsellers",
+          "slug": "bestsellers",
+          "__typename": "SaleorSimpleCollection"
+        }
+      ],
+      "__typename": "AlgoliaResult"
+    },
+    {
+      "category": ["Body > Hand & Body", "Body"],
+      "description": "<b>What’s in it for you?<br></b>This self-preserving version of our best-selling body lotion wants to gently nurse your skin back to health. Made with every calming ingredient we could get our hands on (and no artificial preservatives), Dream Cream’s cult blend of oat milk, chamomile and lavender may just be our worst kept secret for sore skin. This self-preserving version of the original body cream is formulated with over 25% organic extra virgin olive oil, which helps the skin barrier retain moisture. It gives this cream a slightly richer feel and helps to seal in moisture - though it’s still a lovely, light alternative to the heavy creams available for treating dry skin, delivering hydration without the stickiness. <b>What’s in it for the world?<br></b>The Fair Trade and organic cocoa butter from the Dominican Republic, Peru and Sierra Leone inside is 100% traceable, meaning we can be sure no child labour is involved in our supply chain. Sourcing beautiful rose absolute and rose water made from damask roses grown in Senir, Turkey, also supports Turkish communities that value traditional rose-harvesting techniques and offer Syrian refugees fairly paid employment. By choosing this self-preserving formula, you are also removing preservatives that could bioaccumulate in our water systems from production. <br><a href=\"https://www.lush.com/uk/en/a/clean-beauty-fresh-microbiome-friendly-skincare\">Read more about our microbiome-friendly skincare here.</a><br>",
+      "minPrice": "5.5",
+      "maxPrice": "30",
+      "currency": "GBP",
+      "slug": "dream-cream-self-preserving-hand-and-body-lotion",
+      "id": "UHJvZHVjdDoyNw==",
+      "objectID": "UHJvZHVjdDoyNw==",
+      "name": "Dream Cream Self-Preserving",
+      "isAvailableForPurchase": true,
+      "isAvailable": true,
+      "thumbnail": {
+        "url": "https://unicorn-staging.eu.saleor.cloud/media/thumbnails/products/dream_cream_body_lotion_sp_2020_thumbnail_256.png",
+        "alt": "A swatch of buttery cream coloured Dream Cream Self Preserving body lotion.",
+        "__typename": "SaleorImage"
+      },
+      "productType": {
+        "slug": "standard-product",
+        "hasVariants": true,
+        "__typename": "SaleorProductType"
+      },
+      "collections": [
+        {
+          "name": "Body Lotions",
+          "slug": "body-lotions",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Body Care",
+          "slug": "body-care",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Skincare",
+          "slug": "skincare",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan Body Care Products",
+          "slug": "vegan-body-care-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan",
+          "slug": "vegan-cosmetics",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Self-Preserving Skincare",
+          "slug": "self-preserving-skincare",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bestsellers",
+          "slug": "bestsellers",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Skincare Routines - Hydrate and Smooth",
+          "slug": "skincare-routines-hydrate-and-smooth",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Skin Care for Cold Weather",
+          "slug": "skin-care-for-cold-weather",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Super Powered Ingredients",
+          "slug": "super-powered-ingredients",
+          "__typename": "SaleorSimpleCollection"
+        }
+      ],
+      "__typename": "AlgoliaResult"
+    },
+    {
+      "category": ["Subscription"],
+      "description": "Enjoy 12 months of unlimited standard delivery* with the Lush Delivery Pass. With no minimum spend each time you shop. Whether you’re looking to boost your skin, a hair care routine or to shower someone with Lush gifts. The <b>Lush Delivery Pass</b> has you covered. So, how does it all work? <br>1) Add a <b>Lush Delivery Pass</b> to your basket along with any other items. <br>2) Log in/create an account during checkout.<br>3) Pay. Once you have paid, your pass will be active immediately and will automatically apply free standard shipping* to your Lush account for an entire year!&nbsp;We only ask that you think twice about how often you use your pass. By grouping smaller deliveries into one, you will lessen the impact on the planet. Even more good news! If you’re a UK Kitchen subscriber and have the Delivery Pass, you will receive free Standard Delivery to a UK postcode on your boxes for as long as your pass is active. To find out more check out the <a href=\"http://www.lush.com/uk/en/faq/lush-delivery-pass-faqs\">FAQs.</a> <i>*Valid for the standard delivery method within the market Lush Delivery Pass is purchased from. </i><a href=\"https://www.lush.com/uk/en/faq/terms-and-conditions#:~:text=Lush%20Delivery%20Pass%20Terms%20and%20Conditions\">Terms &amp; conditions apply</a><i>.</i>",
+      "minPrice": "15",
+      "maxPrice": "15",
+      "currency": "GBP",
+      "slug": "lush-delivery-pass",
+      "id": "UHJvZHVjdDoyNjc3",
+      "objectID": "UHJvZHVjdDoyNjc3",
+      "name": "Lush Delivery Pass",
+      "isAvailableForPurchase": true,
+      "isAvailable": true,
+      "thumbnail": {
+        "url": "https://unicorn-staging.eu.saleor.cloud/media/thumbnails/products/PINKLush-Delivery-Pass-updated_e313bf66_thumbnail_256.png",
+        "alt": "An illustration of a box with LUSH on the front and wings on the sides.",
+        "__typename": "SaleorImage"
+      },
+      "productType": {
+        "slug": "subscription",
+        "hasVariants": true,
+        "__typename": "SaleorProductType"
+      },
+      "collections": [
+        {
+          "name": "New Products ",
+          "slug": "new-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bestsellers",
+          "slug": "bestsellers",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bubble Bath Bars",
+          "slug": "bubble-bars",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Skincare",
+          "slug": "skincare",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Experiences",
+          "slug": "experiences",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Hair Care",
+          "slug": "hair-care",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Lush Delivery Pass",
+          "slug": "lush-delivery-pass",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Halloween",
+          "slug": "halloween",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Snow Fairy",
+          "slug": "snow-fairy",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Christmas",
+          "slug": "christmas",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bath Bombs",
+          "slug": "bath-bombs",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Christmas Gifts",
+          "slug": "christmas-gifts",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Beetlejuice Beetlejuice x Lush",
+          "slug": "subscriptions",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "ESC Big Tech",
+          "slug": "charity-pot-collection",
+          "__typename": "SaleorSimpleCollection"
+        }
+      ],
+      "__typename": "AlgoliaResult"
+    },
+    {
+      "category": ["Face"],
+      "description": "<b>How to use:<br></b>Up the ante with our first ever vitamin C product. This dual-use foaming facial scrub is made with vitamin C powder for its anti-oxidant and anti-inflammatory qualities. This exfoliating face scrub has a 10% vitamin C formula, which may tingle during use as it exfoliates dead skin cells. For maximum effect, use as a mask and apply to a clean, dry face, leaving for 1-2 minutes. Rinse off with water and pat dry. For a more gentle experience, use as a foaming face wash by scooping out a small amount and adding a little water. Apply to the face in gentle, circular motions before rinsing away. As it foams when washing off you’ll also notice it changes colour from deep purple to light pink -&nbsp; leaving you looking radiant.",
+      "minPrice": "14",
+      "maxPrice": "14",
+      "currency": "GBP",
+      "slug": "bright-and-beautiful-vitamin-c-exfoliating-facial-scrub",
+      "id": "UHJvZHVjdDoyNjE0",
+      "objectID": "UHJvZHVjdDoyNjE0",
+      "name": "Bright and Beautiful",
+      "isAvailableForPurchase": true,
+      "isAvailable": true,
+      "thumbnail": {
+        "url": "https://unicorn-staging.eu.saleor.cloud/media/thumbnails/products/bright_and_beautiful_vitamin_c_exfoliating_facial_scrub_ecom_2022_adddd944_t.png",
+        "alt": "A swatch of black, textured Bright and Beautiful scrub, made with charcoal.",
+        "__typename": "SaleorImage"
+      },
+      "productType": {
+        "slug": "standard-product",
+        "hasVariants": true,
+        "__typename": "SaleorProductType"
+      },
+      "collections": [
+        {
+          "name": "Face Scrubs & Exfoliators",
+          "slug": "face-scrubs-exfoliators",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Skincare",
+          "slug": "skincare",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan",
+          "slug": "vegan-cosmetics",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Cleansers",
+          "slug": "cleansers",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan Skincare",
+          "slug": "vegan-skincare",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Self-Preserving Skincare",
+          "slug": "self-preserving-skincare",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bestsellers",
+          "slug": "bestsellers",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Super Powered Ingredients",
+          "slug": "super-powered-ingredients",
+          "__typename": "SaleorSimpleCollection"
+        }
+      ],
+      "__typename": "AlgoliaResult"
+    },
+    {
+      "category": ["Gifts"],
+      "description": "Time for a foam party! These four bestsellers deliver all the bubbles without any plastic. <b>What’s this ethical gift made of?<br></b>- Box: Made from 100% recycled board. Printed and made in the UK. Reuse again, regift or recycle with paper recycling.<br>- Eco Pops: Your gift will be packed with these expanded starch biodegradable product protectors. <b>Gift Contains:</b><br>Mini Sleepy Bubble Bar<br>Mini The Comforter Bubble Bar<br>Mini Blue Skies And Fluffy White Clouds Bubble Bar<br>Mini Rainbow Bubble Bar",
+      "minPrice": "20",
+      "maxPrice": "20",
+      "currency": "GBP",
+      "slug": "lets-get-ready-to-crumble-gift",
+      "id": "UHJvZHVjdDoyNjA1",
+      "objectID": "UHJvZHVjdDoyNjA1",
+      "name": "Let's Get Ready To Crumble",
+      "isAvailableForPurchase": true,
+      "isAvailable": true,
+      "thumbnail": {
+        "url": "https://unicorn-staging.eu.saleor.cloud/media/thumbnails/products/lets_get_to_crumble_pr_2022_573d2a5c_thumbnail_256.png",
+        "alt": "",
+        "__typename": "SaleorImage"
+      },
+      "productType": {
+        "slug": "standard-product",
+        "hasVariants": true,
+        "__typename": "SaleorProductType"
+      },
+      "collections": [
+        {
+          "name": "Vegan Gifts",
+          "slug": "vegan-gifts",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Gifts",
+          "slug": "gifts",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bestsellers",
+          "slug": "bestsellers",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Corporate Gifts",
+          "slug": "corporate-gifts",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Gifts for Kids & Teens",
+          "slug": "gifts-for-kids-teens",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bath Bomb Gift Sets",
+          "slug": "bath-bomb-gift-sets",
+          "__typename": "SaleorSimpleCollection"
+        }
+      ],
+      "__typename": "AlgoliaResult"
+    },
+    {
+      "category": ["Bath > Shower", "Bath"],
+      "description": "<b>How to use:</b> After cleansing, glide over your body in the bath or shower. Pat dry to leave its softening, organic brazil nut and argan oils resting gently on the skin.",
+      "minPrice": "20",
+      "maxPrice": "33",
+      "currency": "GBP",
+      "slug": "ros-argan-body-conditioner",
+      "id": "UHJvZHVjdDoyNg==",
+      "objectID": "UHJvZHVjdDoyNg==",
+      "name": "Ro's Argan 1",
+      "isAvailableForPurchase": true,
+      "isAvailable": true,
+      "thumbnail": {
+        "url": "https://unicorn-staging.eu.saleor.cloud/media/thumbnails/products/ros_argan_body_conditioner_2020_thumbnail_256.png",
+        "alt": "A swatch of thick, pinky-cream coloured Ro's Argan body conditioner.",
+        "__typename": "SaleorImage"
+      },
+      "productType": {
+        "slug": "standard-product",
+        "hasVariants": true,
+        "__typename": "SaleorProductType"
+      },
+      "collections": [
+        {
+          "name": "Shower Products",
+          "slug": "shower-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Shower Oils & Moisturisers",
+          "slug": "shower-oils-moisturisers",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Body Care",
+          "slug": "body-care",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Skincare",
+          "slug": "skincare",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan",
+          "slug": "vegan-cosmetics",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan Shower Products",
+          "slug": "vegan-shower-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Skin Care for Cold Weather",
+          "slug": "skin-care-for-cold-weather",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bestsellers",
+          "slug": "bestsellers",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan Body Care Products",
+          "slug": "vegan-body-care-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Winter Cosmetics",
+          "slug": "cold-weather-skin-and-hair-care",
+          "__typename": "SaleorSimpleCollection"
+        }
+      ],
+      "__typename": "AlgoliaResult"
+    },
+    {
+      "category": ["Bath > Shower", "Bath"],
+      "description": "Start your morning with a sweet date in your shower! This long-lasting fragrance is made with 25% softening date syrup, aromatic vanilla and sweet sandalwood.&nbsp; <b>How to use: <br></b>With a hydrating low lather formula, rub all over your body (and hair) and rinse off.",
+      "minPrice": "8",
+      "maxPrice": "43",
+      "currency": "GBP",
+      "slug": "sticky-dates-shower-gel",
+      "id": "UHJvZHVjdDoyNTM3",
+      "objectID": "UHJvZHVjdDoyNTM3",
+      "name": "Sticky Dates",
+      "isAvailableForPurchase": true,
+      "isAvailable": true,
+      "thumbnail": {
+        "url": "https://unicorn-staging.eu.saleor.cloud/media/thumbnails/products/sticky_dates_shower_gel_2022_867762ce_thumbnail_256.png",
+        "alt": "Sticky Dates, a circular swatch of shower gel that's scarlet red in colour. ",
+        "__typename": "SaleorImage"
+      },
+      "productType": {
+        "slug": "standard-product",
+        "hasVariants": true,
+        "__typename": "SaleorProductType"
+      },
+      "collections": [
+        {
+          "name": "Shower Gels",
+          "slug": "shower-gels",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan",
+          "slug": "vegan-cosmetics",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Shower Products",
+          "slug": "shower-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "EID Gifts",
+          "slug": "eid-gifts",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan Shower Products",
+          "slug": "vegan-shower-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bestsellers",
+          "slug": "bestsellers",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Keep Clean",
+          "slug": "keep-clean",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Gourmand test",
+          "slug": "gourmand",
+          "__typename": "SaleorSimpleCollection"
+        }
+      ],
+      "__typename": "AlgoliaResult"
+    },
+    {
+      "category": ["Face"],
+      "description": "<b>Who’s it for?</b><br>This self-preserving version of our bestselling moisturiser for sensitive skin is especially good for delicate and dry skin. <b>What’s in it for you?</b><br>Our mild vanilla and almond-based moisturiser is especially formulated for sensitive skin that feels tight, dry or prone to inflammation. A healthy skin barrier is key to enabling your complexion to protect itself against pollutants and external stresses, but as your face has a high density of nerve endings and a thinner barrier than that of your body, it can be especially susceptible to discomfort. We’ve packed this moisturiser with the mildest natural ingredients we could find (and removed the synthetic preservatives) to help your skin barrier function and feel lovely again. We combine vanilla water with almond milk and over 20% almond oil for their antioxidant and anti-inflammatory properties, helping to boost the resilience of your skin barrier to environmental stress and giving it all the tools we can to correct damage itself. Sensitive skin can also be prone to dryness which reduces the effectiveness of your skin at keeping essential nutrients in and irritants out. If that sounds like you, you’ll love the higher plant butter and vegan glycerine content in this self-preserving formula, which gives it a slightly richer and more softening feel than the original, helping drier skin retain moisture at the surface. <b>What’s in it for the planet?</b><br>There’s nothing vanilla about our beans. Made with pods from small-holder farms in Uganda and Tanzania and a Madagascan company promoting agroforestry practices, the vanilla soothing your skin is also helping to boost the incomes of farmers and biodiversity of East African forests. Organic illipe butter is sustainably harvested from Indonesia’s Borneo rainforest by local families who practise wild harvesting without the use of pesticides. <b>What is self-preserving?</b><br>We want to make products that care for your skin barrier with minimal interference to your microbiome: the community of resident microorganisms that protect your skin against pathogens. The effects of preservatives on our microbiome and the environment are not yet fully clear. But, because preservatives are biocidal, we prefer to use them in minimal amounts far below legal maximums, or not at all. We achieve this with clever product formulation, fast despatch from our factories and short shelf lives. Where a product is formulated to stay fresh without synthetic preservatives (as defined under Annex 5 of the E.U Cosmetic Regulations), we call it ‘self-preserving’. <b>How to use:<br></b>Consider this self-preserving formula a super concentrated version of the original formula you may know and love. Cleanse and tone, then gently pat in this  vegan moisturiser with clean hands. You can apply to damp skin if you prefer a lighter feel. Store in cool, dry conditions. Best used fresh within six months.",
+      "minPrice": "20",
+      "maxPrice": "20",
+      "currency": "GBP",
+      "slug": "celestial-self-preserving-moisturiser",
+      "id": "UHJvZHVjdDoyNTIx",
+      "objectID": "UHJvZHVjdDoyNTIx",
+      "name": "New Celestial Self-Preserving",
+      "isAvailableForPurchase": true,
+      "isAvailable": true,
+      "thumbnail": {
+        "url": "https://unicorn-staging.eu.saleor.cloud/media/thumbnails/products/celestial_moisturiser_2021_29e09061_thumbnail_256.png",
+        "alt": "A swatch of smooth, nicely thick, orchid white Celestial facial moisturiser, flecked with vanilla pod seeds.",
+        "__typename": "SaleorImage"
+      },
+      "productType": {
+        "slug": "standard-product",
+        "hasVariants": true,
+        "__typename": "SaleorProductType"
+      },
+      "collections": [
+        {
+          "name": "Moisturisers",
+          "slug": "moisturisers",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Skincare Routines - Cult Classics",
+          "slug": "skincare-routines-cult-classics",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Skincare Routines - Calm and Soothe",
+          "slug": "skincare-routines-calm-and-soothe",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Skincare Routines",
+          "slug": "skincare-routines",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Winter Cosmetics",
+          "slug": "cold-weather-skin-and-hair-care",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Skincare",
+          "slug": "skincare",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan",
+          "slug": "vegan-cosmetics",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Skin Care for Cold Weather",
+          "slug": "skin-care-for-cold-weather",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan Skincare",
+          "slug": "vegan-skincare",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bestsellers",
+          "slug": "bestsellers",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Self-Preserving Skincare",
+          "slug": "self-preserving-skincare",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "New Products ",
+          "slug": "new-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Summer Essentials",
+          "slug": "summer-essentials",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Super Powered Ingredients",
+          "slug": "super-powered-ingredients",
+          "__typename": "SaleorSimpleCollection"
+        }
+      ],
+      "__typename": "AlgoliaResult"
+    },
+    {
+      "category": ["Face"],
+      "description": "<b>Who’s it for?</b><br>If your complexion’s breakout-prone, give it the gentle hydration it craves with this self-preserving moisturiser for oily skin and sensitive skin (also great for teenagers!) <b>What’s in it for you? </b><br>Spot-prone skin can have a slightly impaired skin barrier, so we’ve made this moisturiser with gently antimicrobial ingredients and lightweight oils to help get it back into balance. While moisturising can feel a little stressful if your skin is oily, breakouts can compromise the integrity of your skin barrier leading to nutrient and water loss. Replenish your skin and soothe blemishes with a blend of honey, camellia and witch hazel - ingredients all known for their antimicrobial and anti-inflammatory properties. We add over 5% cold-pressed grapeseed oil for its high linoleic acid content, which has a key role in helping your skin barrier function effectively.  This self-preserving version of the original formula is also made with a slightly higher quantity of jojoba oil (over 5%): a balmy wax structurally similar to the skin’s sebum that helps to boost elasticity and impart hydration without the heaviness. <b>What’s in it for the planet?</b><br>We love honey for its beautiful effects on the skin - but we only work with beekeepers that meet super high standards of care for bees. The honey in this facial moisturiser comes from the Barro Vermelho community in Brazil: a community centred around bee welfare, minimal intervention bee-keeping and land regeneration. Organic jojoba oil from a conscientious supplier in Peru is dedicated to high welfare standards for employees and uses gentle harvesting methods to reap fallen jojoba seeds which will be pressed into a beautiful oil. <b>What is self-preserving?</b><br>We want to make products that care for your skin barrier with minimal interference to your microbiome: the community of resident microorganisms that protect your skin against pathogens. The effects of preservatives on our microbiome and the environment are not yet fully clear. But, because preservatives are biocidal, we prefer to use them in minimal amounts below legal maximums, or not at all. We achieve this with clever product formulation, fast despatch from our factories and short shelf lives. Where a product is formulated to stay fresh without synthetic preservatives (as defined under Annex 5 of the E.U Cosmetic Regulations), we call it ‘self-preserving’. <b>How to use: </b><br>Cleanse and tone, then gently pat into your skin with clean hands. Consider this self-preserving formula a super concentrated version of the original formula you know and love. You can apply to damp skin if you prefer a lighter feel. Store in cool, dry conditions. Best used fresh within six months.",
+      "minPrice": "24",
+      "maxPrice": "24",
+      "currency": "GBP",
+      "slug": "vanishing-cream-self-preserving-moisturiser",
+      "id": "UHJvZHVjdDoyNTI1",
+      "objectID": "UHJvZHVjdDoyNTI1",
+      "name": "New Vanishing Cream Self-Preserving",
+      "isAvailableForPurchase": true,
+      "isAvailable": true,
+      "thumbnail": {
+        "url": "https://unicorn-staging.eu.saleor.cloud/media/thumbnails/products/vanishing_cream_moisturiser_naked_2020_da686d1f_thumbnail_256.png",
+        "alt": "A swatch of smooth, light, orchid white Vanishing Cream facial moisturiser.",
+        "__typename": "SaleorImage"
+      },
+      "productType": {
+        "slug": "standard-product",
+        "hasVariants": true,
+        "__typename": "SaleorProductType"
+      },
+      "collections": [
+        {
+          "name": "Moisturisers",
+          "slug": "moisturisers",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Skincare",
+          "slug": "skincare",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Skin Care for Cold Weather",
+          "slug": "skin-care-for-cold-weather",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Skincare Routines - Balance and Clarify",
+          "slug": "skincare-routines-balance-clarify",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Best for a calm face",
+          "slug": "best-for-a-calm-face",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Spot Treatments",
+          "slug": "spot-treatments",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bestsellers",
+          "slug": "bestsellers",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Winter Cosmetics",
+          "slug": "cold-weather-skin-and-hair-care",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Self-Preserving Skincare",
+          "slug": "self-preserving-skincare",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "New Products ",
+          "slug": "new-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Super Powered Ingredients",
+          "slug": "super-powered-ingredients",
+          "__typename": "SaleorSimpleCollection"
+        }
+      ],
+      "__typename": "AlgoliaResult"
+    },
+    {
+      "category": ["Body > Hand & Body", "Body"],
+      "description": "<b>What’s in it for you?<br></b>Our bestselling body lotion wants to gently nurse your skin back to health. Made with every calming ingredient we could get our hands on, this oat milk, chamomile and lavender body cream may just be our worst kept secret for sore and sensitive skin. An effective alternative to heavy creams available for treating dryness, a light emulsion delivers care and hydration without the stickiness and it’s developed a cult following since we invented it in 1996.&nbsp; <b>What’s in it for the world?<br></b>The Fair Trade and organic cocoa butter from the Dominican Republic, Peru and Sierra Leone inside is 100% traceable, meaning we can be sure no child labour is involved in our supply chain. Sourcing beautiful rose absolute and rose water made from damask roses grown in Senir, Turkey, also supports Turkish communities employed in traditional rose-harvesting techniques and offers Syrian refugees fairly paid employment.&nbsp;&nbsp; <b>How to use:<br></b>Apply generously to flaking or visibly dry skin, or simply all over the body to keep your skin feeling dreamy. It’s super easily absorbed and lovely after you’ve been in the sun too.",
+      "minPrice": "5.5",
+      "maxPrice": "30",
+      "currency": "GBP",
+      "slug": "dream-cream-hand-and-body-lotion",
+      "id": "UHJvZHVjdDoyNQ==",
+      "objectID": "UHJvZHVjdDoyNQ==",
+      "name": "Dream Cream",
+      "isAvailableForPurchase": true,
+      "isAvailable": true,
+      "thumbnail": {
+        "url": "https://unicorn-staging.eu.saleor.cloud/media/thumbnails/products/dream_cream_body_lotion_2020_thumbnail_256.png",
+        "alt": "A swatch of cream coloured Dream Cream body lotion.",
+        "__typename": "SaleorImage"
+      },
+      "productType": {
+        "slug": "standard-product",
+        "hasVariants": true,
+        "__typename": "SaleorProductType"
+      },
+      "collections": [
+        {
+          "name": "Body Lotions",
+          "slug": "body-lotions",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Body Care",
+          "slug": "body-care",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Skincare",
+          "slug": "skincare",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Beauty Sleep",
+          "slug": "beauty-sleep",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan",
+          "slug": "vegan-cosmetics",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan Body Care Products",
+          "slug": "vegan-body-care-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Skincare Routines - Hydrate and Smooth",
+          "slug": "skincare-routines-hydrate-and-smooth",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bestsellers",
+          "slug": "bestsellers",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Winter Cosmetics",
+          "slug": "cold-weather-skin-and-hair-care",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Summer Essentials",
+          "slug": "summer-essentials",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Skin Care for Cold Weather",
+          "slug": "skin-care-for-cold-weather",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Corporate Gifts",
+          "slug": "corporate-gifts",
+          "__typename": "SaleorSimpleCollection"
+        }
+      ],
+      "__typename": "AlgoliaResult"
+    },
+    {
+      "category": ["Bath > Shower", "Bath"],
+      "description": "<b>How to use: </b><br>Our secret recipe for soft skin. Made with vanilla-infused oatmilk (you might see the tiny black seeds) and thickened with cornstarch. Scoop out a good handful and slather all over the body. Massage in, then wash off.",
+      "minPrice": "4",
+      "maxPrice": "15",
+      "currency": "GBP",
+      "slug": "yummy-custard-body-wash",
+      "id": "UHJvZHVjdDoyNDg3",
+      "objectID": "UHJvZHVjdDoyNDg3",
+      "name": "Yummy Custard",
+      "isAvailableForPurchase": true,
+      "isAvailable": true,
+      "thumbnail": {
+        "url": "https://unicorn-staging.eu.saleor.cloud/media/thumbnails/products/yummy_custard_body_wash_2022_d606b9d9_thumbnail_256.png",
+        "alt": "Yummy Custard. A swatch of very pale yellow body wash. ",
+        "__typename": "SaleorImage"
+      },
+      "productType": {
+        "slug": "standard-product",
+        "hasVariants": true,
+        "__typename": "SaleorProductType"
+      },
+      "collections": [
+        {
+          "name": "New Products ",
+          "slug": "new-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan Shower Products",
+          "slug": "vegan-shower-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Mother’s Day",
+          "slug": "mothers-day",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Shower Products",
+          "slug": "shower-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Shower Gels",
+          "slug": "shower-gels",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bestsellers",
+          "slug": "bestsellers",
+          "__typename": "SaleorSimpleCollection"
+        }
+      ],
+      "__typename": "AlgoliaResult"
+    },
+    {
+      "category": ["Bath"],
+      "description": "<b>How to use:<br></b>Run your bath and slip into something more fabulous with this sweet pink bath bomb. Softening and luxurious, vanilla and lavender combine in a sensual embrace.&nbsp; <b>How to store: <br></b>Keep cool and dry, then lie back, relax, and dream of Hollywood. <b>Did you know?<br></b>Over 25 years ago we invented the bath bomb. Our fizzing bicarb beauties provide an immersive aromatherapeutic bathtime like no other. All this and no packaging too...",
+      "minPrice": "6.5",
+      "maxPrice": "6.5",
+      "currency": "GBP",
+      "slug": "think-pink-bath-bomb",
+      "id": "UHJvZHVjdDoyMzg0",
+      "objectID": "UHJvZHVjdDoyMzg0",
+      "name": "Think Pink",
+      "isAvailableForPurchase": false,
+      "isAvailable": false,
+      "thumbnail": {
+        "url": "https://unicorn-staging.eu.saleor.cloud/media/thumbnails/products/think_pink_bath_bomb_2021_bac2c39d_thumbnail_256.png",
+        "alt": "Think Pink. A round, very much pink bath bomb, complete with a silver shimmer coating and a fabric ripple-like design on top.",
+        "__typename": "SaleorImage"
+      },
+      "productType": {
+        "slug": "standard-product",
+        "hasVariants": true,
+        "__typename": "SaleorProductType"
+      },
+      "collections": [
+        {
+          "name": "Bath Products",
+          "slug": "bath-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bath Bombs",
+          "slug": "bath-bombs",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Sweet Bath Bombs",
+          "slug": "sweet-bath-bombs",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Floral Bath Bombs",
+          "slug": "floral-bath-bombs",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Plastic Free",
+          "slug": "plastic-free",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Gifts for Kids & Teens",
+          "slug": "gifts-for-kids-teens",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bestsellers",
+          "slug": "bestsellers",
+          "__typename": "SaleorSimpleCollection"
+        }
+      ],
+      "__typename": "AlgoliaResult"
+    },
+    {
+      "category": ["Bath > Shower", "Bath"],
+      "description": "<b>How to use:&nbsp;</b> Great ready to chill, pour out crisp spearmint and herbaceous thyme, lather all over and rinse off under a waterfall (or shower!).&nbsp;&nbsp;",
+      "minPrice": "7",
+      "maxPrice": "30",
+      "currency": "GBP",
+      "slug": "dirty-springwash-shower-gel",
+      "id": "UHJvZHVjdDoyMzc=",
+      "objectID": "UHJvZHVjdDoyMzc=",
+      "name": "Dirty Springwash",
+      "isAvailableForPurchase": true,
+      "isAvailable": true,
+      "thumbnail": {
+        "url": "https://unicorn-staging.eu.saleor.cloud/media/thumbnails/products/dirty_springwash_shower_gel_2020_thumbnail_256.png",
+        "alt": "A sample of icy blue Dirty Springwash shower gel.",
+        "__typename": "SaleorImage"
+      },
+      "productType": {
+        "slug": "standard-product",
+        "hasVariants": true,
+        "__typename": "SaleorProductType"
+      },
+      "collections": [
+        {
+          "name": "Shower Products",
+          "slug": "shower-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Shower Gels",
+          "slug": "shower-gels",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan",
+          "slug": "vegan-cosmetics",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan Shower Products",
+          "slug": "vegan-shower-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Father′s Day",
+          "slug": "fathers-day",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Gifts for Dad",
+          "slug": "gifts-for-dad",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Summer Essentials",
+          "slug": "summer-essentials",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bestsellers",
+          "slug": "bestsellers",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Corporate Gifts",
+          "slug": "corporate-gifts",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Keep Clean",
+          "slug": "keep-clean",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Easter",
+          "slug": "easter-gifts",
+          "__typename": "SaleorSimpleCollection"
+        }
+      ],
+      "__typename": "AlgoliaResult"
+    },
+    {
+      "category": ["Hair"],
+      "description": "Revive is an effective hair moisturiser that's perfect for enhancing curls. It strengthens and conditions hair with nourishing avocado and olive oil. \"I went into the stages of grief when I thought this product had been discontinued. I came to accept that I would have to go back to trying every product and my hair would never be perfect again. I have long thick, not quite wavy not quite straight frizzy hair but with this product it always leaves my hair soft and wavey with no effort. I recommend it to everyone that struggles with curly, wavey hair and even for beards. Thank goodness you had only changed its name!\" - <i>Crumpet_lady_</i> \"Bought this to try for my 2c/3a hair. I have never before been able to lose the frizz, but this left my hair defined, soft and shiny - without the need for an additional styling product! I feel like I have completely different hair since using it. I scrunch into wet hair, ‘plop’ (if you have wavy/curly hair, Google it!), for about 15 minutes then apply a little bit more when hair is dried and settled. You don’t need a huge amount - a smear on my finger is enough for my shoulder length hair for each application. I was initially unsure of the consistency, but it does not weigh my hair down and looks amazing for much longer than traditional mousse or serums. For extra curly definition, I use with ‘Curl Power’, but this one is my new must have hair product.\" - <i>janina.beache</i> <b>How to use:</b> Designed for coily and Afro hair but loved by all! Smooth and scrunch through dry or wet hair to hydrate, protect and finish your style. Porous hair will benefit from a generous helping to lock in moisture and reduce breakage. Can also be used as your oil in the L.O.C method as a lighter alternative.",
+      "minPrice": "14",
+      "maxPrice": "47",
+      "currency": "GBP",
+      "slug": "revive-hair-moisturiser",
+      "id": "UHJvZHVjdDoyMjU=",
+      "objectID": "UHJvZHVjdDoyMjU=",
+      "name": "Revive",
+      "isAvailableForPurchase": true,
+      "isAvailable": true,
+      "thumbnail": {
+        "url": "https://unicorn-staging.eu.saleor.cloud/media/thumbnails/products/r__b_hair_moisturiser_2020_thumbnail_256.png",
+        "alt": "A swatch of smooth, thick, cream coloured Revive hair moisturiser.",
+        "__typename": "SaleorImage"
+      },
+      "productType": {
+        "slug": "standard-product",
+        "hasVariants": true,
+        "__typename": "SaleorProductType"
+      },
+      "collections": [
+        {
+          "name": "Afro Hair Care",
+          "slug": "afro-hair-care",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Hair Treatments",
+          "slug": "hair-treatments",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Hair Styling",
+          "slug": "hair-styling",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Hair Care",
+          "slug": "hair-care",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bestsellers",
+          "slug": "bestsellers",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan Hair Products",
+          "slug": "vegan-hair-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Winter Cosmetics",
+          "slug": "cold-weather-skin-and-hair-care",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Summer Essentials",
+          "slug": "summer-essentials",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Hair Products For Cold Weather",
+          "slug": "hair-products-for-cold-weather",
+          "__typename": "SaleorSimpleCollection"
+        }
+      ],
+      "__typename": "AlgoliaResult"
+    },
+    {
+      "category": ["Bath"],
+      "description": "<b>How to use:</b> Run your bath and drop in this seductive cocktail of jasmine, vanilla and sandalwood. The hydrating boost bakuchi oil brings benefits that go way beyond bathing in this luxury bath bomb.<b><br><br>How to store:</b> <b></b>Keep cool and dry until you are ready for the ultimate levelled up bathing luxury.<br><br><b>Did you know?</b> Bakuchi oil is a great natural alternative to Retinol, and has many of the same benefits such as stimulating collagen production, reducing pigmentation and promoting skin elasticity.<br><br>Over 25 years ago we invented the bath bomb. Our fizzing bicarb beauties provide an immersive aromatherapeutic bathtime like no other. All this and no packaging too...",
+      "minPrice": "7",
+      "maxPrice": "7",
+      "currency": "GBP",
+      "slug": "luxe-bath-bomb",
+      "id": "UHJvZHVjdDoyMTMz",
+      "objectID": "UHJvZHVjdDoyMTMz",
+      "name": "Luxe",
+      "isAvailableForPurchase": true,
+      "isAvailable": true,
+      "thumbnail": {
+        "url": "https://unicorn-staging.eu.saleor.cloud/media/thumbnails/products/luxe_bath_bomb_2021__62920757_thumbnail_256.png",
+        "alt": "Luxe. A round, deep purple bath bomb, wrapped with pink, aquamarine, and, most importantly, gold, swirls.",
+        "__typename": "SaleorImage"
+      },
+      "productType": {
+        "slug": "standard-product",
+        "hasVariants": true,
+        "__typename": "SaleorProductType"
+      },
+      "collections": [
+        {
+          "name": "Bath Products",
+          "slug": "bath-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bath Bombs",
+          "slug": "bath-bombs",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Adventures in Bathing",
+          "slug": "adventures-in-bathing",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Plastic Free",
+          "slug": "plastic-free",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Fruity Bath Bombs",
+          "slug": "fruity-bath-bombs",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bestsellers",
+          "slug": "bestsellers",
+          "__typename": "SaleorSimpleCollection"
+        }
+      ],
+      "__typename": "AlgoliaResult"
+    },
+    {
+      "category": ["Bath"],
+      "description": "<b>How to use:</b> Feel yourself with a fresh, futuristic vibe that exudes real main character energy. Release this glitter bath bomb into your run bath, as it fizzes away inhale the vibrant neroli, black pepper and ylang ylang fragrance. <b>How to store:</b> <b></b>Swirls of plastic-free sparkle await you in this rich epitome of 70’s disco glamour. Keep cool and dry until you want to go all out - even though you're staying in.<br><br><b>Did you know?</b> <b></b>Over 25 years ago we invented the bath bomb. Our fizzing bicarb beauties provide an immersive aromatherapeutic bathtime like no other. All this and no packaging too...",
+      "minPrice": "8.5",
+      "maxPrice": "8.5",
+      "currency": "GBP",
+      "slug": "diamond-dust-bath-bomb",
+      "id": "UHJvZHVjdDoyMTMy",
+      "objectID": "UHJvZHVjdDoyMTMy",
+      "name": "Diamond Dust ",
+      "isAvailableForPurchase": true,
+      "isAvailable": true,
+      "thumbnail": {
+        "url": "https://unicorn-staging.eu.saleor.cloud/media/thumbnails/products/diamond_dust_bath_bomb_ecom_image_2021_copy_66b9766a_thumbnail_256.png",
+        "alt": "Diamond Dust. A round, light pink, yellow and cream bath bomb, full of glitter. The top mimics the texture of a diamond.",
+        "__typename": "SaleorImage"
+      },
+      "productType": {
+        "slug": "standard-product",
+        "hasVariants": true,
+        "__typename": "SaleorProductType"
+      },
+      "collections": [
+        {
+          "name": "Bath Products",
+          "slug": "bath-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bath Bombs",
+          "slug": "bath-bombs",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Adventures in Bathing",
+          "slug": "adventures-in-bathing",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Floral Bath Bombs",
+          "slug": "floral-bath-bombs",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Citrus Bath Bombs",
+          "slug": "citrus-bath-bombs",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Plastic Free",
+          "slug": "plastic-free",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bestsellers",
+          "slug": "bestsellers",
+          "__typename": "SaleorSimpleCollection"
+        }
+      ],
+      "__typename": "AlgoliaResult"
+    },
+    {
+      "category": ["Hair"],
+      "description": "Looking for that extra bounce after shampooing? Lather up with this lavender and seaweed conditioner. Rinse out as normal, you know what to do!&nbsp;",
+      "minPrice": "8",
+      "maxPrice": "38",
+      "currency": "GBP",
+      "slug": "veganese-conditioner",
+      "id": "UHJvZHVjdDoyMDY=",
+      "objectID": "UHJvZHVjdDoyMDY=",
+      "name": "Veganese",
+      "isAvailableForPurchase": true,
+      "isAvailable": true,
+      "thumbnail": {
+        "url": "https://unicorn-staging.eu.saleor.cloud/media/thumbnails/products/veganese_conditioner_2020_thumbnail_256.png",
+        "alt": "A swatch of light, smooth, light cream coloured Veganese conditioner.",
+        "__typename": "SaleorImage"
+      },
+      "productType": {
+        "slug": "standard-product",
+        "hasVariants": true,
+        "__typename": "SaleorProductType"
+      },
+      "collections": [
+        {
+          "name": "Conditioners",
+          "slug": "conditioners",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Hair Care",
+          "slug": "hair-care",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan",
+          "slug": "vegan-cosmetics",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan Hair Products",
+          "slug": "vegan-hair-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bestsellers",
+          "slug": "bestsellers",
+          "__typename": "SaleorSimpleCollection"
+        }
+      ],
+      "__typename": "AlgoliaResult"
+    },
+    {
+      "category": ["Hair"],
+      "description": "<b>How to use: </b> Try this combination of fresh horseradish, epsom salts, and menthol crystals to give a burst of volumising warming stimulation as you massage it over your scalp. Rinse out after use.",
+      "minPrice": "10",
+      "maxPrice": "55",
+      "currency": "GBP",
+      "slug": "wasabi-shan-kui-shampoo",
+      "id": "UHJvZHVjdDoyMDQ=",
+      "objectID": "UHJvZHVjdDoyMDQ=",
+      "name": "Wasabi Shan Kui",
+      "isAvailableForPurchase": true,
+      "isAvailable": true,
+      "thumbnail": {
+        "url": "https://unicorn-staging.eu.saleor.cloud/media/thumbnails/products/wasabi_shan_kui_shampoo_2020_thumbnail_256.png",
+        "alt": "A sample of thick, vibrant green Wasabi Shan Kui shampoo, packed full of tiny bubbles within.",
+        "__typename": "SaleorImage"
+      },
+      "productType": {
+        "slug": "standard-product",
+        "hasVariants": true,
+        "__typename": "SaleorProductType"
+      },
+      "collections": [
+        {
+          "name": "Shampoo",
+          "slug": "shampoo",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Hair Care",
+          "slug": "hair-care",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan",
+          "slug": "vegan-cosmetics",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan Hair Products",
+          "slug": "vegan-hair-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Summer Essentials",
+          "slug": "summer-essentials",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bestsellers",
+          "slug": "bestsellers",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Keep Clean",
+          "slug": "keep-clean",
+          "__typename": "SaleorSimpleCollection"
+        }
+      ],
+      "__typename": "AlgoliaResult"
+    },
+    {
+      "category": ["Hair"],
+      "description": "<b>How to use:</b> When you ain't got seventy days, work through wet hair before rinsing away to reveal healthy, happy tresses. Always keep a bottle near.",
+      "minPrice": "8",
+      "maxPrice": "45",
+      "currency": "GBP",
+      "slug": "rehab-shampoo",
+      "id": "UHJvZHVjdDoyMDM=",
+      "objectID": "UHJvZHVjdDoyMDM=",
+      "name": "Rehab",
+      "isAvailableForPurchase": true,
+      "isAvailable": true,
+      "thumbnail": {
+        "url": "https://unicorn-staging.eu.saleor.cloud/media/thumbnails/products/rehab_shampoo_2020_thumbnail_256.png",
+        "alt": "A sample of glossy, pale yellow, almost translucent in appearance, Rehab shampoo.",
+        "__typename": "SaleorImage"
+      },
+      "productType": {
+        "slug": "standard-product",
+        "hasVariants": true,
+        "__typename": "SaleorProductType"
+      },
+      "collections": [
+        {
+          "name": "Shampoo",
+          "slug": "shampoo",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Hair Care",
+          "slug": "hair-care",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan",
+          "slug": "vegan-cosmetics",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan Hair Products",
+          "slug": "vegan-hair-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Winter Cosmetics",
+          "slug": "cold-weather-skin-and-hair-care",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Hair Products For Cold Weather",
+          "slug": "hair-products-for-cold-weather",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bestsellers",
+          "slug": "bestsellers",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Keep Clean",
+          "slug": "keep-clean",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Customisation",
+          "slug": "customisation",
+          "__typename": "SaleorSimpleCollection"
+        }
+      ],
+      "__typename": "AlgoliaResult"
+    },
+    {
+      "category": ["Hair"],
+      "description": "For gorgeously soft, shiny hair, this honey shampoo really is the bees knees! Fairly Traded Honey is a beautifully moisturising honey shampoo that gives the hair shine and lustre.&nbsp;Linseed Mucilage will leave your hair feeling smooth and in great condition and Geranium Oil perfumes the hair and balances the scalp. And because this shampoo is packed with beautiful fairly traded honey, it contains no preservatives and supports a wonderful fair trade project too. <b>How to use:</b> Massage into hair and scalp, washing thoroughly for that floral and honey summer feeling.&nbsp;",
+      "minPrice": "10",
+      "maxPrice": "55",
+      "currency": "GBP",
+      "slug": "fairly-traded-honey-shampoo",
+      "id": "UHJvZHVjdDoyMDI=",
+      "objectID": "UHJvZHVjdDoyMDI=",
+      "name": "Fairly Traded Honey",
+      "isAvailableForPurchase": true,
+      "isAvailable": true,
+      "thumbnail": {
+        "url": "https://unicorn-staging.eu.saleor.cloud/media/thumbnails/products/fairly_traded_honey_shampoo_2020_thumbnail_256.png",
+        "alt": "A sample of liquid gold Fairly Traded Honey shampoo.",
+        "__typename": "SaleorImage"
+      },
+      "productType": {
+        "slug": "standard-product",
+        "hasVariants": true,
+        "__typename": "SaleorProductType"
+      },
+      "collections": [
+        {
+          "name": "Shampoo",
+          "slug": "shampoo",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Hair Care",
+          "slug": "hair-care",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bestsellers",
+          "slug": "bestsellers",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Winter Cosmetics",
+          "slug": "cold-weather-skin-and-hair-care",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Hair Products For Cold Weather",
+          "slug": "hair-products-for-cold-weather",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Keep Clean",
+          "slug": "keep-clean",
+          "__typename": "SaleorSimpleCollection"
+        }
+      ],
+      "__typename": "AlgoliaResult"
+    },
+    {
+      "category": ["Hair"],
+      "description": "Our best selling, sea salt shampoo. Reach for this shampoo when your hair needs a serious boost in shine and volume. Packed with hand-harvested sea salt and lemon infusion, this shampoo will give softness and texture with the incredible scent of neroli and vanilla. <b>How to use:<br></b><b></b>Use a small amount on wet hair and work it in well to build lather.&nbsp;",
+      "minPrice": "8.5",
+      "maxPrice": "28",
+      "currency": "GBP",
+      "slug": "big-shampoo",
+      "id": "UHJvZHVjdDoyMDA=",
+      "objectID": "UHJvZHVjdDoyMDA=",
+      "name": "Big",
+      "isAvailableForPurchase": true,
+      "isAvailable": true,
+      "thumbnail": {
+        "url": "https://unicorn-staging.eu.saleor.cloud/media/thumbnails/products/big_shampoo_2020_thumbnail_256.png",
+        "alt": "A sample of creamy white Big shampoo, packed full of coarse sea salt.",
+        "__typename": "SaleorImage"
+      },
+      "productType": {
+        "slug": "standard-product",
+        "hasVariants": true,
+        "__typename": "SaleorProductType"
+      },
+      "collections": [
+        {
+          "name": "Shampoo",
+          "slug": "shampoo",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Hair Care",
+          "slug": "hair-care",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Bestsellers",
+          "slug": "bestsellers",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Vegan Hair Products",
+          "slug": "vegan-hair-products",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Summer Essentials",
+          "slug": "summer-essentials",
+          "__typename": "SaleorSimpleCollection"
+        },
+        {
+          "name": "Keep Clean",
+          "slug": "keep-clean",
+          "__typename": "SaleorSimpleCollection"
+        }
+      ],
+      "__typename": "AlgoliaResult"
+    }
+  ]
+}
