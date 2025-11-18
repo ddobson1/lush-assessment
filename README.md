@@ -77,7 +77,7 @@ npm run android  # Android emulator
 
 ## Screen Reccording
 
-https://github.com/user-attachments/assets/7a7dccbd-38d5-40b3-8609-ea9cc4a54fef
+https://github.com/user-attachments/assets/c9038814-f88f-4736-9e2f-479e66c41f02
 
 
 
